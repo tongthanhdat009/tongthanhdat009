@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tongthanhdat009&show_icons=true&theme=dracula&count_private=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tongthanhdat009&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tongthanhdat009&layout=compact&theme=dracula)
